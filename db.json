@@ -1,0 +1,1406 @@
+{
+  "shoeData" : 
+  [
+      {
+        "id" : 1,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/d/g/k/10-374765-10-puma-white-asphalt-high-risk-red-original-imaghezthz9nptcg.jpeg?q=70",
+        "images": 
+                [
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/n/9/10-374765-10-puma-white-asphalt-high-risk-red-original-imagheztkwwcdqyf.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/i/h/d/10-374765-10-puma-white-asphalt-high-risk-red-original-imaghezt6errbg6n.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/g/i/j/10-374765-10-puma-white-asphalt-high-risk-red-original-imaghezt4rpgfeth.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/8/e/u/10-374765-10-puma-white-asphalt-high-risk-red-original-imagheztatfhpyd3.jpeg?q=70"
+                ],
+        "name": "Rebound JOY High Tops For Men (White)",
+        "brand": "PUMA",
+        "category" : "Casual",
+        "price" : 3500,
+        "details": {
+          "Color" : "White",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "Rebound JOY",
+            "Ideal_for" : " Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 2,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/b/f/7-386806-7-puma-ponderosa-pine-vibrant-orange-original-imag62ywfkad758w-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ksj9dow0/shoe/d/r/x/7-386806-7-puma-ponderosa-pine-vibrant-orange-original-imag62ywq2pdbhtg.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksj9dow0/shoe/a/f/d/7-386806-7-puma-ponderosa-pine-vibrant-orange-original-imag62ywhd8gte7c.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksj9dow0/shoe/c/m/z/7-386806-7-puma-ponderosa-pine-vibrant-orange-original-imag62ywrwydphhg.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksj9dow0/shoe/h/k/m/7-386806-7-puma-ponderosa-pine-vibrant-orange-original-imag62ywcvhf6epw.jpeg?q=70"
+        ],
+        "name": "Star Casuals For Men  (Green)",
+        "brand": "PUMA",
+        "category" : "Casual",
+        "price" : 1095,
+        "details": {
+            "Color" : "GRreen",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Star",
+            "Ideal_for" : " Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 3,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l407mvk0/shoe/y/s/a/-original-imagfyy2vczfvaff.jpeg?q=70",
+        "images": [
+           "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/shoe/f/9/7/374765-10-5-puma-white-white-limestone-original-imafzfgfxwgvdhtg.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/shoe/j/u/e/374765-10-5-puma-white-white-limestone-original-imafzfgfanqfugp8.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/shoe/l/i/t/374765-10-5-puma-white-white-limestone-original-imafzfgf6vrcjbdm.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/shoe/e/o/w/374765-10-5-puma-white-white-limestone-original-imafzfgfjvb8mzfz.jpeg?q=70"
+        ],
+        "name": "Rebound JOY Sneakers For Men  (White)",
+        "brand": "PUMA",
+        "category" : "Casual",
+        "price" : 2977,
+        "details": {
+          "Color" : "White",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "Rebound JOY",
+            "Ideal_for" : " Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+      },
+      {
+        "id" : 4,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/8/j/c/11-387773-11-puma-white-glacial-blue-spring-blue-original-imag76vmfjrk9wqx-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ktrk13k0/shoe/d/t/l/6-387773-6-puma-white-glacial-blue-spring-blue-original-imag7f7m4bydhwmz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktrk13k0/shoe/1/7/m/6-387773-6-puma-white-glacial-blue-spring-blue-original-imag7f7mgbgwbdhw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktrk13k0/shoe/k/l/z/6-387773-6-puma-white-glacial-blue-spring-blue-original-imag7f7mgchuehuv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktrk13k0/shoe/e/m/c/6-387773-6-puma-white-glacial-blue-spring-blue-original-imag7f7m8gyfahrw.jpeg?q=70"
+        ],
+        "name": "KL Rock High Tops For Men  (White)",
+        "brand": "PUMA",
+        "category" : "Casual",
+        "price" : 2016,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "KL Rock",
+            "Ideal_for" : " Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 5,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l47cu4w0/shoe/h/1/l/-original-imagf5gggr6m5ywh.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/krz97rk0/shoe/c/2/q/9-5-306864-9-5-puma-rosso-corsa-black-original-imag5n28g9gfxywj.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krz97rk0/shoe/0/v/y/9-5-306864-9-5-puma-rosso-corsa-black-original-imag5n28hkme3dyj.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krz97rk0/shoe/t/j/h/9-5-306864-9-5-puma-rosso-corsa-black-original-imag5n28gbtdghyq.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krz97rk0/shoe/t/z/3/9-5-306864-9-5-puma-rosso-corsa-black-original-imag5n28pbcfnfds.jpeg?q=70"
+        ],
+        "name": "Ferrari Drift Cat Delta Sneakers For Men (Red)",
+        "brand": "PUMA",
+        "category" : "Casual",
+        "price" : 3010,
+        "details": {
+            "Color" : "Red",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "Ferrari Drift",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 6,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/m/8/5/11-386922-puma-quarry-black-original-imag778fvxwbceug-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/1/s/y/11-386922-puma-quarry-black-original-imag778fxmd6snjz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/m/f/j/11-386922-puma-quarry-black-original-imag778fgherjqmc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/u/w/x/11-386922-puma-quarry-black-original-imag778fghsxsgvf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/9/h/z/11-386922-puma-quarry-black-original-imag778frzqxgr5b.jpeg?q=70"
+        ],
+        "name": "Hustle V2 Running Shoes For Men  (Grey)",
+        "brand": "PUMA",
+        "category" : "Sports",
+        "price" : 1252,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Hustle V2",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 7,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/0/b/10-386922-10-puma-white-high-risk-red-original-imag7f2htzamwgap-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/g/d/p/7-386922-puma-white-high-risk-red-original-imag778fwk79t46j.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/b/n/c/7-386922-puma-white-high-risk-red-original-imag778fm5uhfzkb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/w/m/c/7-386922-puma-white-high-risk-red-original-imag778fgwrqfxbz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ktyp8cw0/shoe/i/9/s/7-386922-puma-white-high-risk-red-original-imag778fekrabzzm.jpeg?q=70"
+        ],
+        "name": "Hustle V2 Running Shoes For Men (White)",
+        "brand": "PUMA",
+        "category" : "Sports",
+        "price" : 2030,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Hustle V2",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 8,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" : 4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/9/t/w/10-387525-10-puma-quarry-black-original-imag8rmvgtukfmxb-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kvzkosw0/shoe/c/m/w/10-387525-10-puma-quarry-black-original-imag8rmvzzfwg2mn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvzkosw0/shoe/w/b/l/10-387525-10-puma-quarry-black-original-imag8rmvwpnnv9k2.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvzkosw0/shoe/t/t/6/10-387525-10-puma-quarry-black-original-imag8rmv7gwzz7th.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvzkosw0/shoe/w/p/4/10-387525-10-puma-quarry-black-original-imag8rmv4n5nbdzx.jpeg?q=70"
+        ],
+        "name": "Player Running Shoes For Men (Blue)",
+        "brand": "PUMA",
+        "category" : "Sports",
+        "price" : 1530,
+        "details": {
+            "Color" : "Blue",
+            "Outermaterial" : "Textile",
+            "Model_name" : "Player",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 9,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kvvad8w0/shoe/p/l/c/7-376758-7-puma-asphalt-black-high-risk-red-original-imag8z233ymzhsy2.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kvr01ow0/shoe/7/p/u/7-376758-7-puma-asphalt-black-high-risk-red-original-imag8ksprrzdec5n.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvr01ow0/shoe/1/b/z/7-376758-7-puma-asphalt-black-high-risk-red-original-imag8kspydsghhuu.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvr01ow0/shoe/d/h/j/7-376758-7-puma-asphalt-black-high-risk-red-original-imag8kspuy3rnzdv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvr01ow0/shoe/p/o/w/7-376758-7-puma-asphalt-black-high-risk-red-original-imag8kspxn9hudhz.jpeg?q=70"
+        ],
+        "name": "Tango Running Shoes For Men (Grey)",
+        "brand": "PUMA",
+        "category" : "Sports",
+        "price" : 1280,
+        "details": {
+            "Color" : "Grey",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Tango",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 10,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kxrvi4w0/shoe/q/x/e/8-380614-8-puma-quarry-vibrant-orange-original-imaga5g2kfwzezzh.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kxrvi4w0/shoe/g/k/q/8-380614-8-puma-quarry-vibrant-orange-original-imaga5g24uu8z8qd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxrvi4w0/shoe/a/9/n/8-380614-8-puma-quarry-vibrant-orange-original-imaga5g2xz6hqwfs.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxrvi4w0/shoe/r/d/e/8-380614-8-puma-quarry-vibrant-orange-original-imaga5g2amu6vzbv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxrvi4w0/shoe/9/6/r/8-380614-8-puma-quarry-vibrant-orange-original-imaga5g2wuzqcyg4.jpeg?q=70"
+        ],
+        "name": "Fire run Walking Shoes For Men (Grey)",
+        "brand": "PUMA",
+        "category" : "Sports",
+        "price" : 1889,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Textile",
+            "Model_name" : "Fire",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 11,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kxhvf680/shoe/j/e/2/11-cw6539-003-12-nike-grey-fog-grey-fog-white-black-original-imag9xquggwpncyq.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kxhvf680/shoe/x/u/d/11-cw6539-003-12-nike-grey-fog-grey-fog-white-black-original-imag9xquqgkyntzf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxhvf680/shoe/y/2/y/11-cw6539-003-12-nike-grey-fog-grey-fog-white-black-original-imag9xqukwaf3hag.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxhvf680/shoe/4/h/h/11-cw6539-003-12-nike-grey-fog-grey-fog-white-black-original-imag9xqut84juwqv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kxhvf680/shoe/3/e/x/11-cw6539-003-12-nike-grey-fog-grey-fog-white-black-original-imag9xqubvzhuzfg.jpeg?q=70"
+        ],
+        "name": "Court Legacy Canvas Sneakers For Men (Black)",
+        "brand": "NIKE",
+        "category" : "Casual",
+        "price" : 3396,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Canvas",
+            "Model_name" : "Court Legacy",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 12,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l1jmc280/shoe/o/q/n/5-5-15386880-nike-black-original-imagd36wg2cev3uw.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l1jmc280/shoe/l/5/e/5-5-15386880-nike-black-original-imagd36wwhgbyftt.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1jmc280/shoe/y/k/p/5-5-15386880-nike-black-original-imagd36wnmyrzkbw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1jmc280/shoe/s/8/l/5-5-15386880-nike-black-original-imagd36wn3gtcewb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1jmc280/shoe/d/u/o/5-5-15386880-nike-black-original-imagd36wg5h9fymu.jpeg?q=70"
+        ],
+        "name": "Sneakers For Men (Black)",
+        "brand": "NIKE",
+        "category" : "Casual",
+        "price" : 3597,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Textile",
+            "Model_name" : "Nike special",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 13,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l432ikw0/shoe/d/a/t/-original-imagf255cun9e2hu.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/shoe/n/j/7/-original-imag88gxc5nwudyc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/shoe/h/o/i/-original-imag88gxdaxkr4hn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/shoe/h/v/a/-original-imag88gxrwftg3mf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/shoe/7/o/m/-original-imag88gxfsfbzhce.jpeg?q=70"
+        ],
+        "name": "Court Vision Low Sneakers For Men (Brown)",
+        "brand": "NIKE",
+        "category" : "Casual",
+        "price" : 4850,
+        "details": {
+            "Color" : "Brown",
+            "Outermaterial" : "Leather",
+            "Model_name" : "Court Vision",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 14,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l4ei1e80/shoe/b/u/a/-original-imagfb9mzjmmd4dg.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/knrsjgw0/shoe/u/e/o/11-cw6539-101nike-nike-white-black-original-imag2dxbwcfpehyf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/knrsjgw0/shoe/s/x/l/11-cw6539-101nike-nike-white-black-original-imag2dxbj3pwvvq3.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/knrsjgw0/shoe/x/d/s/11-cw6539-101nike-nike-white-black-original-imag2dxb7bzdr3hd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/knrsjgw0/shoe/e/j/a/11-cw6539-101nike-nike-white-black-original-imag2dxbunfbpmsq.jpeg?q=70"
+        ],
+        "name": "Court Legacy Canvas Canvas Shoes For Men (White)",
+        "brand": "NIKE",
+        "category" : "Casual",
+        "price" : 3159,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Canvas",
+            "Model_name" : "Court Legacy",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 15,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/klb78nk0/shoe/x/f/u/10-cw7645-002nike-11-nike-black-white-original-imagygpenztnvfbj.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/klb78nk0/shoe/s/v/e/10-cw7645-002nike-11-nike-black-white-original-imagygperyubgycx.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/klb78nk0/shoe/r/k/n/10-cw7645-002nike-11-nike-black-white-original-imagygpevgc4rapd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/klb78nk0/shoe/z/c/t/10-cw7645-002nike-11-nike-black-white-original-imagygpeyvfepjzc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/klb78nk0/shoe/b/n/w/10-cw7645-002nike-11-nike-black-white-original-imagygpeqkzbdey9.jpeg?q=70"
+        ],
+        "name": "Challenger OG Sneakers For Men (Black)",
+        "brand": "NIKE",
+        "category" : "Casual",
+        "price" : 6030,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Leather",
+            "Model_name" : "Challenger OG",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 16,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/9/l/3/-original-imaghf6pzgvh4ds7.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/3/p/v/-original-imaghf6pggjwzwme.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/f/r/s/-original-imaghf6pxt2yggy4.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/8/o/w/-original-imaghf6pbgngjbrs.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/s/2/-original-imaghf6pkgk79aff.jpeg?q=70"
+        ],
+        "name": "NK Downshifter Running Shoes For Men (White)",
+        "brand": "NIKE",
+        "category" : "Sports",
+        "price" : 3995,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Textile",
+            "Model_name" : "NK Downshifter",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 17,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/s/3/6-dd9535-003nike-7-nike-black-white-iron-grey-white-original-imaggz343nahgbws.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/d/v/f/6-dd9535-003nike-7-nike-black-white-iron-grey-white-original-imaggz34fpnqqjnu.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/v/o/6-dd9535-003nike-7-nike-black-white-iron-grey-white-original-imaggz34umtknhrr.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/j/3/6-dd9535-003nike-7-nike-black-white-iron-grey-white-original-imaggz34eghzgfum.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/6/t/t/6-dd9535-003nike-7-nike-black-white-iron-grey-white-original-imaggz343qdz6age.jpeg?q=70"
+        ],
+        "name": "NK Precision Shoes For Men  (Black)",
+        "brand": "NIKE",
+        "category" : "Sports",
+        "price" : 4840,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Textile",
+            "Model_name" : "NK Precision",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 18,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l4d2ljk0/shoe/p/e/n/-original-imagf9vmqgwdjhz6.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kx50gi80/shoe/d/r/o/-original-imag9z3zqhtg7shf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kx50gi80/shoe/r/b/7/-original-imag9z3zy2hgpcga.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kx50gi80/shoe/o/w/7/-original-imag9z3zybfaycpp.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kx50gi80/shoe/q/j/t/-original-imag9z3zhh7mhnde.jpeg?q=70"
+        ],
+        "name": "Revolution Running Shoes For Men (Red)",
+        "brand": "NIKE",
+        "category" : "Sports",
+        "price" : 4830,
+        "details": {
+            "Color" : "Red",
+            "Outermaterial" : "Leather",
+            "Model_name" : "Revolution",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 19,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/k/e/-original-imagfyyv4hy98rh2-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kpcy5jk0/shoe/l/s/i/8-908988-007nike-nike-black-volt-anthracite-white-original-imag3hgtmzxbyxwy.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kpcy5jk0/shoe/u/i/s/8-908988-007nike-nike-black-volt-anthracite-white-original-imag3hgtftshndbc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kpcy5jk0/shoe/l/p/z/8-908988-007nike-nike-black-volt-anthracite-white-original-imag3hgtjf87gwxb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kpcy5jk0/shoe/u/n/r/8-908988-007nike-nike-black-volt-anthracite-white-original-imag3hgtyfhjczcm.jpeg?q=70"
+        ],
+        "name": "Revolution 4 Running Shoes For Men (Black)",
+        "brand": "NIKE",
+        "category" : "Sports",
+        "price" : 3520,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Revolution",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 20,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l407mvk0/shoe/e/3/b/-original-imagfyy35fenffbr.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kjswia80/shoe/l/i/9/ci9981-008nike-8-nike-ozone-blue-obsidian-photon-dust-original-imafzaurrh3ne3xa.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kk2wl8w0/shoe/y/e/q/ci9981-008nike-nike-ozone-blue-obsidian-photon-dust-original-imafzg35b3zbfngg.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kk2wl8w0/shoe/6/m/i/ci9981-008nike-nike-ozone-blue-obsidian-photon-dust-original-imafzg35jzwhzvyz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kk2wl8w0/shoe/d/4/l/ci9981-008nike-nike-ozone-blue-obsidian-photon-dust-original-imafzg35pzgzy9zg.jpeg?q=70"
+        ],
+        "name": "Downshifter Running Shoes For Men (Black)",
+        "brand": "NIKE",
+        "category" : "Sports",
+        "price" : 3396,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Downshifter",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 21,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :"4.1",
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/3/r/y/-original-imagfb9r4q38pmfm-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/k4x2du80/shoe/u/a/h/rc3504-002-9-red-chief-blue-original-imafnpks8qrzpybz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/k4x2du80/shoe/u/a/h/rc3504-002-9-red-chief-blue-original-imafnpksh94cwaeq.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/k4x2du80/shoe/u/a/h/rc3504-002-9-red-chief-blue-original-imafnpkspzswypzv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/k4x2du80/shoe/u/a/h/rc3504-002-9-red-chief-blue-original-imafnpksau9mshae.jpeg?q=70"
+        ],
+        "name": "RC3504 002 Casuals For Men (Blue)",
+        "brand": "Red Chief",
+        "category" : "Casual",
+        "price" : 2141,
+        "details": {
+            "Color" : "Blue",
+            "Outermaterial" : "Genuine Leather",
+            "Model_name" : "RC3504 002",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "TPR",
+            "Closure" : "Slip ons"
+          }
+        
+      },
+      {
+        "id" : 22,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/jxdkpzk0/shoe/s/5/s/rc20005-6-red-chief-n-camel-original-imafhufwbxrnncmf.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/jxdkpzk0/shoe/s/5/s/rc20005-6-red-chief-n-camel-original-imafhu3gzp9xgmvs.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jxdkpzk0/shoe/s/5/s/rc20005-6-red-chief-n-camel-original-imafhuyfdhfr9beb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jxdkpzk0/shoe/s/5/s/rc20005-6-red-chief-n-camel-original-imafhu3rsbvnwsjv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jxdkpzk0/shoe/s/5/s/rc20005-6-red-chief-n-camel-original-imafhuyhvmqbprzk.jpeg?q=70"
+        ],
+        "name": "Casuals For Men (Brown)",
+        "brand": "Red Chief",
+        "category" : "Casual",
+        "price" : 2700,
+        "details": {
+            "Color" : "Brown",
+            "Outermaterial" : "Nubuck Leather",
+            "Model_name" : "RC3504 02",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "TPR",
+            "Closure" : "Slip ons"
+          }
+        
+      },
+      {
+        "id" : 23,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.8,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/jtd98y80/shoe/3/s/x/rc3552-10-red-chief-rust-original-imafequp967ycbyf.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/jtd98y80/shoe/3/s/x/rc3552-10-red-chief-rust-original-imafeqsfq3vryxgx.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jteoosw0/shoe/3/s/x/rc3552-10-red-chief-rust-original-imafeqv3ydqvvdvx.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jteoosw0/shoe/3/s/x/rc3552-10-red-chief-rust-original-imafeqv5edrfsukc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jtd98y80/shoe/3/s/x/rc3552-10-red-chief-rust-original-imafeqsnwmaanrhk.jpeg?q=70"
+        ],
+        "name": "Casuals For Men  (Brown)",
+        "brand": "Red Chief",
+        "category" : "Casual",
+        "price" : 2700,
+        "details": {
+            "Color" : "Brown",
+            "Outermaterial" : "Leather",
+            "Model_name" : "RC3504 1212",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 24,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" : 4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/jabdw280/shoe/g/w/w/rc3485-7-red-chief-olive-original-imaezuzxpjsesxgm.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/jabdw280/shoe/g/w/w/rc3485-7-red-chief-olive-original-imaezuzxtndwugwc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jabdw280/shoe/g/w/w/rc3485-7-red-chief-olive-original-imaezuzxkmhbzqhh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jabdw280/shoe/g/w/w/rc3485-8-red-chief-olive-original-imaezuzxzkzph6za.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jabdw280/shoe/g/w/w/rc3485-8-red-chief-olive-original-imaezuzxnu2dvwah.jpeg?q=70"
+        ],
+        "name": "RC3485 014 Outdoors For Men (Olive)",
+        "brand": "Red Chief",
+        "category" : "Casual",
+        "price" : 2581,
+      "details": {
+            "Color" : "Olive",
+            "Outermaterial" : "Genuine Leather",
+            "Model_name" : "RC3485 014",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 25,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.9,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l41n2q80/shoe/9/t/s/-original-imagfywbmy9jsz2t.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l41n2q80/shoe/m/v/5/-original-imagfywbac9cwrmd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l41n2q80/shoe/a/l/2/-original-imagfywbfqgmeppy.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l41n2q80/shoe/2/f/9/-original-imagfywbqe93cugz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l41n2q80/shoe/y/8/f/-original-imagfywbqnndzex9.jpeg?q=70"
+        ],
+        "name": "RC3513 001 Sneakers For Men (Black)",
+        "brand": "Red Chief",
+        "category" : "Casual",
+        "price" : 2399,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Leather",
+            "Model_name" : "RC3513 001",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 26,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.1,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/jepzrm80/shoe/g/w/j/rc1976-10-red-chief-rust-original-imaf3cpgea2fkavh.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/jepzrm80/shoe/g/w/j/rc1976-10-red-chief-rust-original-imaf3cpgzzjbhnn2.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jepzrm80/shoe/g/w/j/rc1976-8-red-chief-rust-original-imaf3cpggaggbfar.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jepzrm80/shoe/g/w/j/rc1976-8-red-chief-rust-original-imaf3cpgfhdguuh7.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/j8lxyfk0/shoe/x/m/s/genuine-leather-43-red-chief-brown-original-imaeyg9b6hmqbz8z.jpeg?q=70"
+        ],
+        "name": "Hiking & Trekking Shoes For Men (Tan)",
+        "brand": "Red Chief",
+        "category" : "Sports",
+        "price" : 2480,
+        "details": {
+            "Color" : "Tan",
+            "Outermaterial" : "Nubuck Leather",
+            "Model_name" : "RC3485 0124",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 27,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kddf6a80/shoe/o/1/1/rc4444-10-red-chief-olive-original-imafuagq6wyghqyp.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kddf6a80/shoe/m/x/b/rc4444-red-chief-olive-original-imafuagqzwyjdpmh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kddf6a80/shoe/l/h/z/rc4444-red-chief-olive-original-imafuagqwhgypktt.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kddf6a80/shoe/k/s/3/rc4444-red-chief-olive-original-imafuagqvz7vqz9d.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kddf6a80/shoe/3/n/8/rc4444-red-chief-olive-original-imafuagqhpkzghjx.jpeg?q=70"
+        ],
+        "name": "Hiking & Trekking Shoes For Men (Olive)",
+        "brand": "Red Chief",
+        "category" : "Sports",
+        "price" : 2980,
+        "details": {
+            "Color" : "Olive",
+            "Outermaterial" : "Leather",
+            "Model_name" : "RC3485 0155",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 28,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.1,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/shoe/f/3/n/6-rc2020-022-6-red-chief-rust-original-imagg3x3purkygqf.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l432ikw0/shoe/b/0/g/-original-imaf6zryghshc3xj.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l432ikw0/shoe/4/o/g/-original-imagf25auwhzegqu.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l432ikw0/shoe/9/u/b/-original-imaf6zrydesjwr4y.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l432ikw0/shoe/6/b/w/-original-imaf6zryghhaz5cs.jpeg?q=70"
+        ],
+        "name": "Hiking & Trekking Shoes For Men (Khaki)",
+        "brand": "Red Chief",
+        "category" : "Sports",
+        "price" : "3055",
+        "details": {
+            "Color" : "Khaki",
+            "Outermaterial" : "",
+            "Model_name" : "RC3485 01",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 29,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.8,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/jvcp9jk0/shoe/v/m/p/rc3458-6-red-chief-green-original-imafg9aztwhtyefw.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/jvcp9jk0/shoe/v/m/p/rc3458-6-red-chief-green-original-imafg9b9h27s2qsk.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jvcp9jk0/shoe/v/m/p/rc3458-6-red-chief-green-original-imafg9bcayyn7nhs.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jvcp9jk0/shoe/v/m/p/rc3458-6-red-chief-green-original-imafg9b7fvzrfszw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jvcp9jk0/shoe/v/m/p/rc3458-6-red-chief-green-original-imafg9b2dcx3qwz6.jpeg?q=70"
+        ],
+        "name": "Outdoors For Men  (Green)",
+        "brand": "Red Chief",
+        "category" : "Sports",
+        "price" : 2531,
+        "details": {
+            "Color" : "Green",
+            "Outermaterial" : "Leather",
+            "Model_name" : "RC3485 215",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" :"TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 30,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l59xq4w0/shoe/t/1/g/6-rc5700-001-red-chief-black-original-imagfzhahbzbycmw.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l59xq4w0/shoe/4/g/b/6-rc5700-001-red-chief-black-original-imagfzhavukr6pwg.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l59xq4w0/shoe/b/n/4/6-rc5700-001-red-chief-black-original-imagfzhazmar3nws.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l59xq4w0/shoe/g/5/5/6-rc5700-001-red-chief-black-original-imagfzhaapzqpdzc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l59xq4w0/shoe/v/g/b/6-rc5700-001-red-chief-black-original-imagfzhavb36dgek.jpeg?q=70"
+        ],
+        "name": "Running Shoes For Men (Black)",
+        "brand": "Red Chief",
+        "category" : "Sports",
+        "price" : 3595,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Leather",
+            "Model_name" : "RC3485 262",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "TPR",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 31,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/a/8/8-ga0958-8-adidas-shanav-cblack-scarle-original-imagbkrued9ckrsg-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kzllrbk0/shoe/c/h/v/8-ga0958-8-adidas-shanav-cblack-scarle-original-imagbkruqr86mf9s.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzllrbk0/shoe/a/a/q/8-ga0958-8-adidas-shanav-cblack-scarle-original-imagbkruht8fhgqx.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzllrbk0/shoe/m/5/n/8-ga0958-8-adidas-shanav-cblack-scarle-original-imagbkrugzxxn89k.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzllrbk0/shoe/1/r/b/8-ga0958-8-adidas-shanav-cblack-scarle-original-imagbkrugytgyx4f.jpeg?q=70"
+        ],
+        "name": "Street Icon M Sneakers For Men (Navy)",
+        "brand": "ADIDAS",
+        "category" : "Casual",
+        "price" : 2181,
+        "details": {
+            "Color" : "Navy",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Street Icon",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 32,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/h/5/v/-original-imagf495qcdjyxdr-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l45xea80/shoe/a/m/t/-original-imagf495hv5yyerg.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l45xea80/shoe/n/2/i/-original-imagf495yckmyqfx.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l45xea80/shoe/e/f/b/-original-imagf495ksg6hubh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l45xea80/shoe/i/r/w/-original-imagf495hu8qegv3.jpeg?q=70"
+        ],
+        "name": "STREET ICON M Sneakers For Men (Black)",
+        "brand": "ADIDAS",
+        "category" : "Casual",
+        "price" : 2312,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Street Icon",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 33,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/x/0/8-gw7172-8-adidas-ftwwht-green-royblu-original-imaggz5hnnxgutpc.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/l/9/2/8-gw7172-8-adidas-ftwwht-green-royblu-original-imaggz5h6zswbuhh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/h/6/p/8-gw7172-8-adidas-ftwwht-green-royblu-original-imaggz5hhfuf6jbv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/b/s/2/8-gw7172-8-adidas-ftwwht-green-royblu-original-imaggz5hp2sbnade.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/l/v/8-gw7172-8-adidas-ftwwht-green-royblu-original-imaggz5hzug6garb.jpeg?q=70"
+        ],
+        "name": "GRAND COURT 2.0 Sneakers For Men (White)",
+        "brand": "ADIDAS",
+        "category" : "Casual",
+        "price" : 4455,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "GRAND COURT",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 34,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.1,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/0/8/r/9-eg4080-adidas-glored-ftwwht-ftwwht-original-imagffz6esjkkmdu-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shoe/r/c/q/eg4080-9-adidas-glored-ftwwht-ftwwht-original-imafur8hvq2rb4zw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shoe/n/u/0/eg4080-9-adidas-glored-ftwwht-ftwwht-original-imafur8gpfyyxr3s.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shoe/t/z/z/eg4080-9-adidas-glored-ftwwht-ftwwht-original-imafur8ffcfr2sfu.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shoe/z/3/y/eg4080-9-adidas-glored-ftwwht-ftwwht-original-imafur8fsmqhx36j.jpeg?q=70"
+        ],
+        "name": "Easy Vulc 2.0 Sneakers For Men (Red)",
+        "brand": "ADIDAS",
+        "category" : "Casual",
+        "price" : 2875,
+        "details": {
+            "Color" : "Red",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Easy Vulc",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 35,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.9,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/p/p/w/-original-imagfyy2cfhjqzzf-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/koad9jk0/shoe/v/y/h/6-kyj34-adidas-grefiv-grefiv-ftwwht-original-imag2sd2s5cywjpr.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/koad9jk0/shoe/x/y/b/6-kyj34-adidas-grefiv-grefiv-ftwwht-original-imag2sd2asb9hgbn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/koad9jk0/shoe/3/x/b/6-kyj34-adidas-grefiv-grefiv-ftwwht-original-imag2sd2ufqrhyfa.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/koad9jk0/shoe/k/n/t/6-kyj34-adidas-grefiv-grefiv-ftwwht-original-imag2sd2s4hpdhhv.jpeg?q=70"
+        ],
+        "name": "ADVANTAGE BASE Sneakers For Men (Grey)",
+        "brand": "ADIDAS",
+        "category" : "Casual",
+        "price" : 2860,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "ADVANTAGE BASE",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 36,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/q/m/t/10-ga2880-10-adidas-ftwwht-orarus-shanav-original-imagg7cdzujuqmay-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l5jxt3k0/shoe/8/0/a/10-ga2880-10-adidas-ftwwht-orarus-shanav-original-imagg7cd3wnzxhgf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l5jxt3k0/shoe/o/o/l/10-ga2880-10-adidas-ftwwht-orarus-shanav-original-imagg7cdzdnnggn3.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l5jxt3k0/shoe/c/d/k/10-ga2880-10-adidas-ftwwht-orarus-shanav-original-imagg7cdudjfwwsc.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l5jxt3k0/shoe/a/a/w/10-ga2880-10-adidas-ftwwht-orarus-shanav-original-imagg7cdnqpxfubz.jpeg?q=70"
+        ],
+        "name": "Crihase Cricket Shoes For Men  (White)",
+        "brand": "ADIDAS",
+        "category" : "Sports",
+        "price" : 2593,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "Crihase",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+      },
+      {
+        "id" : 37,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/h/o/t/-original-imagf4fhdnfw68hb-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/shoe/5/s/b/cm4789-6-adidas-blue-original-imafyf382xgcydfh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/shoe/5/x/r/cm4789-6-adidas-blue-original-imafyf38exhzz4k8.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/shoe/z/3/j/cm4789-6-adidas-blue-original-imafyf38yayntdvj.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/shoe/d/y/w/cm4789-6-adidas-blue-original-imafyf383feakfgc.jpeg?q=70"
+        ],
+        "name": "Fluo M Running Shoes For Men (Blue)",
+        "brand": "ADIDAS",
+        "category" : "Sports",
+        "price" : 2232,
+        "details": {
+            "Color" : "Blue",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Fluo M",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 38,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.5,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/u/1/6-ga3045-6-adidas-shanav-altblu-tecind-orarus-original-imaggz4jvbkzam6g.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/b/t/g/6-ga3045-6-adidas-shanav-altblu-tecind-orarus-original-imaggz4jyefckfcy.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/2/0/6-ga3045-6-adidas-shanav-altblu-tecind-orarus-original-imaggz4jg2sjaety.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/r/i/6-ga3045-6-adidas-shanav-altblu-tecind-orarus-original-imaggz4jckg5f5jz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/g/c/6-ga3045-6-adidas-shanav-altblu-tecind-orarus-original-imaggz4jpgkyzjsb.jpeg?q=70"
+        ],
+        "name": "ARGO TREK 21 Trekking Shoes For Men (Navy)",
+        "brand": "ADIDAS",
+        "category" : "Sports",
+        "price" : 3123,
+        "details": {
+            "Color" : "Navy",
+            "Outermaterial" : "Synthetic, Textile",
+            "Model_name" : "ARGO TREK",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 39,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.9,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/shoe/i/n/n/6-ga0901-6-adidas-dovgry-ftwwht-aciyel-original-imagethn5csgn7hr.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/k/h/q/6-ga0901-6-adidas-dovgry-ftwwht-aciyel-original-imagethngtbtpgtr-bb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/shoe/c/2/f/6-ga0901-6-adidas-dovgry-ftwwht-aciyel-original-imagethnznasm5vb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/shoe/3/f/y/6-ga0901-6-adidas-dovgry-ftwwht-aciyel-original-imagethn2cvmwjgn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/shoe/m/n/v/6-ga0901-6-adidas-dovgry-ftwwht-aciyel-original-imagethn9svkrhc6.jpeg?q=70"
+        ],
+        "name": "Glowrun Reflective M Running Shoes For Men  (Grey)",
+        "brand": "ADIDAS",
+        "category" : "Sports",
+        "price" : 2151,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "Glowrun Reflective",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 40,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/a/m/a/-original-imagezy4gyhwrgz7-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/krce64w0/shoe/x/e/5/6-hmi84-adidas-cblack-drkroy-dovgry-original-imag55y35hzyfgag.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krce64w0/shoe/p/n/w/6-hmi84-adidas-cblack-drkroy-dovgry-original-imag55y3gwkx6cvd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krce64w0/shoe/q/8/m/6-hmi84-adidas-cblack-drkroy-dovgry-original-imag55y3xzrjyp4e.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/krce64w0/shoe/i/t/o/6-hmi84-adidas-cblack-drkroy-dovgry-original-imag55y3yfjry7ye.jpeg?q=70"
+        ],
+        "name": "Runesy M Running Shoes For Men (White)",
+        "brand": "ADIDAS",
+        "category" : "Sports",
+        "price" : 2040,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Runesy M",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 41,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.3,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/6/c/q/-original-imaggf4kbddv67v4.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/n/z/d/-original-imaggf4kggmfgnad.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/r/e/-original-imaggf4kavauzbrt.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/p/a/f/-original-imaggf4kfxrfpgw6.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/w/t/o/-original-imaggf4k4c5qgqdv.jpeg?q=70"
+        ],
+        "name": "Megathunder Training Shoes For Men (Grey)",
+        "brand": "REEBOK",
+        "category" : "Sports",
+        "price" : 2730,
+        "details": {
+            "Color" : "Grey",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Megathunder",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 42,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l4vnbm80/shoe/m/c/w/6-ga1540-7-reebok-nobel-grey-met-lgh-solid-grey-solar-original-imagfzkyyuhhkzja.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/2/v/t/6-ga1540-7-reebok-nobel-grey-met-lgh-solid-grey-solar-original-imagfzkyygdxhx3d-bb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l4vnbm80/shoe/o/a/s/6-ga1540-7-reebok-nobel-grey-met-lgh-solid-grey-solar-original-imagfzkyxkjvpwhd.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l4vnbm80/shoe/n/l/w/6-ga1540-7-reebok-nobel-grey-met-lgh-solid-grey-solar-original-imagfzkyfwgyhke9.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l4vnbm80/shoe/0/v/h/6-ga1540-7-reebok-nobel-grey-met-lgh-solid-grey-solar-original-imagfzkyrzhzmdsc.jpeg?q=70"
+        ],
+        "name": "South Ferry Running Shoes For Men (Grey)",
+        "brand": "REEBOK",
+        "category" : "Sports",
+        "price" : 2133,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Synthetic, Textile",
+            "Model_name" : "South Ferry",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 43,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.7,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/i/0/9-gb2031-10-reebok-lgh-solid-grey-cold-grey-7r-solar-lime-original-imaggz4enxg4pstg.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/a/l/9-gb2031-10-reebok-lgh-solid-grey-cold-grey-7r-solar-lime-original-imaggz4ea8gnus7h.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/w/z/n/9-gb2031-10-reebok-lgh-solid-grey-cold-grey-7r-solar-lime-original-imaggz4espq3gnz8.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/f/4/j/9-gb2031-10-reebok-lgh-solid-grey-cold-grey-7r-solar-lime-original-imaggz4eftfndhtb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/l/z/q/9-gb2031-10-reebok-lgh-solid-grey-cold-grey-7r-solar-lime-original-imaggz4ezmygy7ty.jpeg?q=70"
+        ],
+        "name": "SMART TREK M Running Shoes For Men  (Grey)",
+        "brand": "REEBOK",
+        "category" : "Sports",
+        "price" : 2455,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Mesh",
+            "Model_name" : "SMART TREK",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 44,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.4,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l47cu4w0/shoe/i/d/q/-original-imagf5zjzq85gxau.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/l1ch4sw0/shoe/6/a/r/-original-imagcxck46habn8s.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1ch4sw0/shoe/6/a/v/-original-imagcxckexknhkyn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1ch4sw0/shoe/a/u/t/-original-imagcxckvvwqkxm6.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1ch4sw0/shoe/j/2/z/-original-imagcxckvnwmsxhd.jpeg?q=70"
+        ],
+        "name": "Effect Runner Running Shoes For Men (Grey)",
+        "brand": "REEBOK",
+        "category" : "Sports",
+        "price" : 1632,
+        "details": {
+            "Color" : "Grey",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "Effect Runner",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 45,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/t/1/9-hmp42-10-reebok-white-lgh-solid-grey-energy-glow-original-imag6ynmgjygafhx-bb.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/shoe/0/h/d/9-hmp42-10-reebok-white-lgh-solid-grey-energy-glow-original-imag6ynmghkjphfb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/shoe/y/e/j/9-hmp42-10-reebok-white-lgh-solid-grey-energy-glow-original-imag6ynmqtmyzr5b.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/shoe/x/j/k/9-hmp42-10-reebok-white-lgh-solid-grey-energy-glow-original-imag6ynmvg4jbpsh.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/shoe/w/r/w/9-hmp42-10-reebok-white-lgh-solid-grey-energy-glow-original-imag6ynm3uu5q29k.jpeg?q=70"
+        ],
+        "name": "REEBOK GENESIS RUNNER Running Shoes For Men  (White)",
+        "brand": "REEBOK",
+        "category" : "Sports",
+        "price" : 1433,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Textile",
+            "Model_name" : "REEBOK GENESIS",
+            "Ideal_for" : "Men",
+            "Occasion" : "Sports",
+            "Sole_material" : "Rubber", 
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 46,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.3,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l47cu4w0/shoe/n/a/9/-original-imagf5zhnpjggez2.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kj8wccw0-0/shoe/e/q/w/jq711-reebok-classics-black-vecred-white-original-imafyutryjrfhb5y.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kj8wccw0-0/shoe/j/f/d/jq711-reebok-classics-black-vecred-white-original-imafyutrh3cgdxfz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kj8wccw0-0/shoe/x/g/d/jq711-reebok-classics-black-vecred-white-original-imafyutrtyg29wgz.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kj8wccw0-0/shoe/j/l/e/jq711-reebok-classics-black-vecred-white-original-imafyutr5abturf7.jpeg?q=70"
+        ],
+        "name": "REEBOK ROYAL COMPLETE3LOW Sneakers For Men (Black)",
+        "brand": "REEBOK",
+        "category" : "Casual",
+        "price" : 2999,
+        "details": {
+            "Color" : "Black",
+            "Outermaterial" : "PU",
+            "Model_name" : "ROYAL COMPLETE3LOW",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 47,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.2,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/shoe/y/i/9/-original-imag88g7hswhwqw5.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kv8fbm80/shoe/a/m/n/9-49799-10-reebok-classics-int-white-gum-original-imag86h7zshdjy5y.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kv8fbm80/shoe/2/5/u/9-49799-10-reebok-classics-int-white-gum-original-imag86h7vsw66gr9.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kv8fbm80/shoe/x/3/c/9-49799-10-reebok-classics-int-white-gum-original-imag86h7gv8znfnr.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kv8fbm80/shoe/o/v/i/9-49799-10-reebok-classics-int-white-gum-original-imag86h7ghhevewj.jpeg?q=70"
+        ],
+        "name": "CL LTHR Sneakers For Men (White)",
+        "brand": "REEBOK",
+        "category" : "Casual",
+        "price" : 3599,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "CL LTHR",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 48,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.8,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/kt7jv680/shoe/j/q/v/5-5-zd948-6-5-reebok-classics-alabas-seapte-pnkglw-original-imag6hwfrpteryty.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kt7jv680/shoe/o/7/h/5-5-zd948-6-5-reebok-classics-alabas-seapte-pnkglw-original-imag6hwfurvewzbb.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kt7jv680/shoe/m/q/z/5-5-zd948-6-5-reebok-classics-alabas-seapte-pnkglw-original-imag6hwfkmqyfzax.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kt7jv680/shoe/i/k/r/5-5-zd948-6-5-reebok-classics-alabas-seapte-pnkglw-original-imag6hwfs6xgjfyf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kt7jv680/shoe/n/q/u/5-5-zd948-6-5-reebok-classics-alabas-seapte-pnkglw-original-imag6hwfhmwypjqr.jpeg?q=70"
+        ],
+        "name": "CLUB C LEGACY Sneakers For Men  (White)",
+        "brand": "REEBOK",
+        "category" : "Casual",
+        "price" : 4100,
+        "details": {
+            "Color" : "White",
+            "Outermaterial" : "Synthetic",
+            "Model_name" : "CLUB C LEGACY",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "EVA",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 49,
+        "Rate": "3Above",
+        "Qty" : 1,
+        "rating" :3.7,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/shoe/y/g/a/chambray-canopy-green-wht-classic-tenstall-reebok-9-original-imaekhu9hhg24cyv.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/shoe/y/g/a/chambray-canopy-green-wht-classic-tenstall-reebok-9-original-imaekhu9vx5knxwv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/shoe/y/g/a/chambray-canopy-green-wht-classic-tenstall-reebok-9-original-imaekhu9yd4t9dca.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/shoe/y/g/a/chambray-canopy-green-wht-classic-tenstall-reebok-9-original-imaekhu9vx5knxwv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/shoe/y/g/a/chambray-canopy-green-wht-classic-tenstall-reebok-9-original-imaekhu9nedyk9su.jpeg?q=70"
+        ],
+        "name": "Classic Tenstall Canvas Sneakers For Men (Grey)",
+        "brand": "REEBOK",
+        "category" : "Casual",
+        "price" : 1659,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Synthetic Leather",
+            "Model_name" : "Classic Tenstall",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Lace-Ups"
+          }
+        
+      },
+      {
+        "id" : 50,
+        "Rate": "4Above",
+        "Qty" : 1,
+        "rating" :4.1,
+        "cover" : "https://rukminim1.flixcart.com/image/832/832/l47cu4w0/shoe/o/e/o/-original-imagf5ghwjnhvwvf.jpeg?q=70",
+        "images": [
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/shoe/a/c/i/11-ga1442-12-reebok-gravel-seaport-teal-energy-glow-bl-original-imagbe68bcdgyhs6.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/shoe/g/k/w/11-ga1442-12-reebok-gravel-seaport-teal-energy-glow-bl-original-imagbe68uuetfhuv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/shoe/j/t/v/11-ga1442-12-reebok-gravel-seaport-teal-energy-glow-bl-original-imagbe68bhhwaycq.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/shoe/i/a/w/11-ga1442-12-reebok-gravel-seaport-teal-energy-glow-bl-original-imagbe68hrc8cmg3.jpeg?q=70"
+        ],
+        "name": "MOTION PULSE 2.0 Sneakers For Men  (Grey)",
+        "brand": "REEBOK",
+        "category" : "Casual",
+        "price" : 1297,
+        "details": {
+            "Color" : "Gray",
+            "Outermaterial" : "Textile",
+            "Model_name" : "MOTION PULSE",
+            "Ideal_for" : "Men",
+            "Occasion" : "Casual",
+            "Sole_material" : "Rubber",
+            "Closure" : "Slip ons"
+          }
+        
+      }
+      
+  ],
+  "users":
+  [
+    {
+      "id": "1",
+      "firstname": "Shubham",
+      "lastname": "Rakhonde",
+      "email": "shubham@gmail.com",
+      "mobile": "1234567891",
+      "password": "8484448",
+      "cosign":"Admin"
+    },
+    {
+      "id": "2",
+      "firstname": "Roy",
+      "lastname": "Millor",
+      "email": "roy@gmail.com",
+      "mobile": "1234567891",
+      "password": "8484448",
+      "cosign":"Admin"
+    },
+    {
+      "id": "3",
+      "firstname": "Ethan",
+      "lastname": "Hunt",
+      "email": "ethan@gmail.com",
+      "mobile": "1234567891",
+      "password": "8484448",
+      "cosign":"Admin"
+    },
+    {
+      "id": "4",
+      "firstname": "Jack",
+      "lastname": "Reacher",
+      "email": "jack@gmail.com",
+      "mobile": "1234567891",
+      "password": "8484448",
+      "cosign":"Admin"
+    },
+    {
+      "id": "5",
+      "firstname": "Jerry",
+      "lastname": "Maguire",
+      "email": "jerry@gmail.com",
+      "mobile": "1234567891",
+      "password": "8484448",
+      "cosign":"Admin"
+    }
+  ],
+  "tempCart":[],
+  "address":[],
+  "allOrders":[]
+}
